@@ -17,3 +17,4 @@ puts "Hello World!"
 Note that this only provides color-coding. For that you might need to use a front end colorization engine like Highlight.JS or something similar.
 
 Hello world!
+Hello world!
