@@ -16,3 +16,8 @@ Comment by tom
 --------
 Another post
 
+Comment by tom
+--------
+And another post!
+
+
