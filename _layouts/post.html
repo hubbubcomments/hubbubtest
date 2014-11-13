@@ -12,7 +12,17 @@ layout: default
 
         <div class="entry">{{ content }}</div>
 
+        <div data-hubbub-pendingcomment>
+        </div>
+
+        <form data-hubbub>
+          <p>Your name: <input name="name"></p>
+          <textarea name="comment" placeholder="Comment here"></textarea>
+          <p><input type="submit" value="Comment"></p>
+        </form>
+
         <footer><!-- additional info --></footer>
 
 </article>
+<script src="https://hubbub.herokuapp.com/hubbub.js"></script>
 
