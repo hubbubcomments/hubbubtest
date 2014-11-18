@@ -12,11 +12,11 @@ layout: default
 
         <div class="entry">{{ content }}</div>
 
-        <div data-hubbub-pendingcomment>
+        <div id="pendingComments">
         </div>
 
-        <form data-hubbub>
-          <p>Your name: <input name="name"></p>
+        <form data-hubbub="#pendingComments" action="https://hubbub.herokuapp.com/api/default/comments">
+          <p>Your name: <input name="metadata_name"></p>
           <textarea name="comment" placeholder="Comment here"></textarea>
           <p><input type="submit" value="Comment"></p>
         </form>
