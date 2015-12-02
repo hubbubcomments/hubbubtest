@@ -29,4 +29,9 @@ These should work in all the browsers, all the way down to and including IE7, bu
 
 [icons]: /resources/img/icons.png "Available Icons"
 
+Comment by I LIKE WEB ICONS
+--------
+WEB ICONS RULEZZZ
+
+
 
