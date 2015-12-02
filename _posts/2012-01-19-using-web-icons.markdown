@@ -48,6 +48,14 @@ BOOM BOOM
 
 {% comment %}END COMMENT 052818a263e36f38ad7324ba06922bdbb7a40510{% endcomment %}
 
+<!--- START COMMENT ef4f301c25b12da041e37213376227538bec92c2 -->
+Comment by tester on Dec 2, 2015 5:28 PM
+--------
+abc
+
+<!--- END COMMENT ef4f301c25b12da041e37213376227538bec92c2 -->
+
+
 
 
 
