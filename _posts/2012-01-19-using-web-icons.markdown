@@ -41,6 +41,14 @@ Comment by tester on Dec 2, 2015 5:19 PM
 --------
 boom
 
+{% comment %}START COMMENT 052818a263e36f38ad7324ba06922bdbb7a40510{% endcomment %}
+Comment by tester on Dec 2, 2015 5:26 PM
+--------
+BOOM BOOM
+
+{% comment %}END COMMENT 052818a263e36f38ad7324ba06922bdbb7a40510{% endcomment %}
+
+
 
 
 
