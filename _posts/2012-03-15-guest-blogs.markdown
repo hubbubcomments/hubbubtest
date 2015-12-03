@@ -85,14 +85,7 @@ ME LIKE COMMENT MUCH TEXT
 <!--- END COMMENT 42a6de9eee1cc0330e523c8e3bdad985f3b4945d -->
 
 
-<!--- START COMMENT 3e4957a43ea525a85d94a01c7abc73054176fdb2 -->
 
-Comment by sdfdsf on Dec 3, 2015 3:55 PM
---------
-fdsfsd
-
-
-<!--- END COMMENT 3e4957a43ea525a85d94a01c7abc73054176fdb2 -->
 
 
 
